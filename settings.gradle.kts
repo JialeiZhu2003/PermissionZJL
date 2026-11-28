@@ -24,4 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "PermissionZJL"
 include(":app")
- 
+include(":Library")
